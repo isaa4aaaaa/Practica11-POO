@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
 public class Ejercicio2{
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
@@ -33,3 +32,5 @@ public class Ejercicio2{
         }
     }
 }
+
+
